@@ -1,11 +1,11 @@
 Name:		fusioninventory-agent-plugin-netdiscovery
-Version:	1.1
-Release:	%mkrel 2
+Version:	1.2
+Release:	%mkrel 1
 Summary:	OCS Inventory Software deployment support for FusionInventory agent
 License:	GPL
 Group:		System/Servers
 URL:		http://fusioninventory.org/wordpress/
-Source0:	http://search.cpan.org/CPAN/authors/id/G/GO/GONERI/FusionInventory-Agent-Task-NetDiscovery-%{version}.tar.gz
+Source0:	http://search.cpan.org/CPAN/authors/id/F/FU/FUSINV/FusionInventory-Agent-Task-NetDiscovery-%{version}.tar.gz
 BuildArch:  noarch
 BuildRequires:  perl(Module::Install)
 BuildRequires:  perl(Module::CoreList)
