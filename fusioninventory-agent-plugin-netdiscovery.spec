@@ -1,5 +1,5 @@
 Name:		fusioninventory-agent-plugin-netdiscovery
-Version:	1.3
+Version:	1.5
 Release:	%mkrel 1
 Summary:	OCS Inventory Software deployment support for FusionInventory agent
 License:	GPL
