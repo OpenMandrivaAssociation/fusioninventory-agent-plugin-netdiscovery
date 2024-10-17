@@ -4,7 +4,7 @@ Release:	3
 Summary:	OCS Inventory Software deployment support for FusionInventory agent
 License:	GPL
 Group:		System/Servers
-URL:		http://fusioninventory.org/wordpress/
+URL:		https://fusioninventory.org/wordpress/
 Source0:	http://search.cpan.org/CPAN/authors/id/F/FU/FUSINV/FusionInventory-Agent-Task-NetDiscovery-%{version}.tar.gz
 BuildArch:  noarch
 BuildRequires:  perl(Module::Install)
