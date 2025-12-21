@@ -7,6 +7,7 @@ Group:		System/Servers
 URL:		https://fusioninventory.org/wordpress/
 Source0:	http://search.cpan.org/CPAN/authors/id/F/FU/FUSINV/FusionInventory-Agent-Task-NetDiscovery-%{version}.tar.gz
 BuildArch:  noarch
+BuildRequires:	make
 BuildRequires:  perl(Module::Install)
 BuildRequires:  perl(Module::CoreList)
 BuildRequires:  perl-devel
